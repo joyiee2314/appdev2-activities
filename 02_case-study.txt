@@ -1,0 +1,27 @@
+
+Case Study #2
+Our IT company embarked on an ambitious project in January 2024 aimed at delivering a cutting-edge software solution to our users and clients. The project was meticulously planned with a target launch date of June 1. However, as the deadline approaches, it becomes apparent that several tasks are still in progress, and there are unresolved bugs that need attention. The testing process, crucial for ensuring product quality, has not yet begun. As a software engineer involved in the project, what aspects could have been handled better to prevent the delays and issues experienced, such as incomplete tasks, unresolved bugs, and a delayed testing process?
+For this activity, evaluate the situation and offer your suggestions on areas where improvements could have been made.
+
+
+ANSWER: 
+
+1. Hands-On Management
+-   Actively monitor project progress.
+-   Provide immediate support where needed.
+-   Ensure resources are available to the team.
+-   Daily stand-up meetings to discuss progress.
+-   Prioritize tasks and focus on delivering high-value features first.
+
+2. Effective Communication:
+-   Use collaboration tools. 
+-   Regular updates to team and stakeholders.
+
+3. Understand Team Capabilities:
+-   Know each team member's skills and strengths.
+-   Assign tasks based on individual expertise.
+
+4. Identify and Address Blockers:
+-   Regularly check for tasks that are stuck.
+-   Quickly identify problems causing delays.
+-   Find solutions to remove obstacles.
